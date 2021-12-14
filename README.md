@@ -1,5 +1,5 @@
 # ECE253-Embedded-Systems-Design
-UCSB ECE253 Embedded Systems Design instructed by Forrest Brewer
+UCSB ECE253 Embedded Systems Design instructed by Forrest Brewer in Fall 2021
 
 Xilinx version: 2019.1
 
